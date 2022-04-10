@@ -1,0 +1,13 @@
+1.  git clone https://github.com/GachevMK/SI_2022_lab1_122091.git
+Клинирање на репозиториумот на компјутерот
+5.git add shopping_list.txt
+git commit -m "Add 5 items to the shopping list"
+Додавање на текстуалната датотека и commit со порака
+6.git commit -m "Add quantities to the items"
+7. git branch branch1
+git branch branch2
+Креирање на нови 2 гранки
+9. 
+10.git checkout branch1
+префрлање на branch1
+11. 
